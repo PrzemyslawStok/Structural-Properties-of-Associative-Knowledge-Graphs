@@ -2,7 +2,7 @@ Structural Properties of Associative Knowledge Graphs
 ==
 This repository contains dataset used in article.
 --
-You can run the main.py file to open the data set.
+You can run the **main.py** file to open the data set.
 The program requires the fiftyone library to be installed.
 
 If you have not used fiftyone before, please review 
