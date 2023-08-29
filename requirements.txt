@@ -1,1 +1,1 @@
-fiftyone~=0.21.6
+fiftyone~=0.18.0
