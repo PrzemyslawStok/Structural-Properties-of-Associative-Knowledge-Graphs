@@ -1,7 +1,7 @@
 import fiftyone as fo
 import os
 
-#This program load dastaset from directory, and open fiftyone app program
+#This program load dastaset from directory, and open FiftyOne app program
 
 def load_dataset(load_dir: str, dataset_name: str, dataset_type=None, max_samples=None) -> fo.Dataset:
     dataset_path = os.path.join(load_dir, dataset_name)
